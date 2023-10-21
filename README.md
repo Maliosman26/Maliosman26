@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Maliosman26)
 <h1 align="center">Hi 👋, I'm Muhammet Ali Osman ÖZYURT</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
