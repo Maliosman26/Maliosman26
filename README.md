@@ -9,7 +9,7 @@
 <a href="https://twitter.com/maliosman26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maliosman26" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammet-ali-osman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammet-ali-osman" height="30" width="40" /></a>
 <a href="https://instagram.com/maliosman26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maliosman26" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/muhammet ali osman özyurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammet ali osman özyurt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@muhammetaliosmanozyurt3156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammet ali osman özyurt" height="30" width="40" /></a>
 <a href="https://discord.gg/Maliosman26#2180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Maliosman26#2180" height="30" width="40" /></a>
 </p>
 
